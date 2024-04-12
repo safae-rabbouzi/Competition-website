@@ -190,6 +190,8 @@ Beneath these user-specific sections, you'll find valuable insights and informat
 
 => License.
 
+![Organiser - First Page](https://github.com/safae-rabbouzi/Competition-website/assets/108349017/2721aa8e-d403-4c23-943c-83dcca577ff5)
+
 
 ### Screen 2: Request Form
 #### Description:
