@@ -197,10 +197,13 @@ Beneath these user-specific sections, you'll find valuable insights and informat
 #### Description:
 Creators submit their request by providing their information and details of the proposed hackathon. Once the form is filled out, it is sent to the organizer for review and processing. Creators receive notifications about the status of their request. 
 
+![Organiser - Request](https://github.com/safae-rabbouzi/Competition-website/assets/108349017/c8c796e8-06ae-48c0-94a7-32a50b57aaba)
+
 ### Screen 3: Request Confirmation Page
 #### Description:
 The creator receives a message confirming the successful submission of their request. They are informed that their request has been successfully transmitted and are prompted to check their email. It is indicated that a response will be sent within the next 15 days.
 
+![Organiser - Request (1)](https://github.com/safae-rabbouzi/Competition-website/assets/108349017/fddb6c42-56a1-488b-a7ca-64e40bbdd57a)
 
 ### Screen 4: Competition Details Page
 #### Description:
@@ -226,6 +229,7 @@ Competition URL: The URL where participants can find more information about the 
 
 Photo and Cover: Representative or promotional images of the competition.
 
+![Frame 14](https://github.com/safae-rabbouzi/Competition-website/assets/108349017/80977df6-90cb-4eb6-8bee-a026d6785da9)
 
 ### Screen 5: Hackathon Steps/Hackathon Requirements Page
 #### Description:
@@ -241,6 +245,7 @@ On this page, Hackathon organizers need to specify various requirements and cons
 
 => Gender Specification: Indicate if the competition is open to all genders, restricted to a specific gender (e.g., "for girls only"), or if there are no gender specifications.
 
+![Create a hackathon- Hackathon -Requirements](https://github.com/safae-rabbouzi/Competition-website/assets/108349017/c4bf2d8a-8fb5-48cf-9d0f-75415c5bbae6)
 
 ### Screen 6: Hackathon Steps/Hackathon Coaches Page
 #### Description:
@@ -268,6 +273,7 @@ Invite a Coach: Enter the coach's email or username and add a comment for your i
 
 Pending Invitations: View a list of pending invitations to coaches. This section displays invitations that have been sent but have not yet been accepted or declined by the invited coaches.
 
+![Create a hackathon- Hackathon - Coaches](https://github.com/safae-rabbouzi/Competition-website/assets/108349017/cf3c46f6-27bd-41bc-9588-f0c4a6418d5d)
 
 ### Screen 7: Hackathon Steps/Validation Steps
 #### Description:
@@ -281,6 +287,7 @@ Untitled Step: Enter the title for each step, along with a description detailing
 
 Save: Once all steps have been added, click on the "Save" button to save the validation steps for participants to follow during the hackathon.
 
+![Create a hackathon- Hackathon - Validation Steps - initial Step](https://github.com/safae-rabbouzi/Competition-website/assets/108349017/d18b370b-ce82-42ac-8e0e-35bba42ea9ff)
 
 ### Screen 8: Submission Preferences
 #### Description:
@@ -288,6 +295,7 @@ On this page, the creator specifies whether they want submissions in the form of
 
 Submission Format: Choose the preferred format for submissions. Options include: (examples) Presentation: Participants submit their work in the form of a presentation or slide deck. GitHub Repository: Participants share their code and project documentation via a GitHub repository. Demo: Participants demonstrate their project through a live presentation or video demonstration. Save: After selecting the submission preferences, click "Save" to confirm the settings.
 
+![Create a hackathon- Hackathon - Submission](https://github.com/safae-rabbouzi/Competition-website/assets/108349017/c78189e8-2f3e-4cba-a6f8-8945730ce828)
 
 ### Screen 9: Hackathon Steps/Prizes
 #### Description:
@@ -303,6 +311,7 @@ Toolbar: Utilize the toolbar to add additional prize categories if the creator w
 
 Save: Once all prize details have been added, click "Save" to finalize the prize settings for the hackathon.
 
+![Create a hackathon- Hackathon -  Prize - Intermediate Page](https://github.com/safae-rabbouzi/Competition-website/assets/108349017/24853ff0-9acb-4fab-b819-402345c611b4)
      
 ## Features (Incomplete)
 - **User Registration and Authentication**: Users can register for an account and authenticate to access the platform.
